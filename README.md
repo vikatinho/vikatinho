@@ -1,6 +1,6 @@
 <h1>### Victor </h1><br/> 
 <h1> Ola, seja bem vindo!! </h1>
-Estudante da Univerdidade de Vila Velha | Cursando ciências da Computação | Tecnico em eletrotcnica 
+<h3>Estudante da Univerdidade de Vila Velha | Cursando ciências da Computação | Tecnico em eletrotcnica </h3>
 
 ![Vikatinho](https://github-readme-stats.vercel.app/api?username=vikatinho&theme=blue-green)
 
@@ -11,7 +11,6 @@ Estudante da Univerdidade de Vila Velha | Cursando ciências da Computação | T
 
  ![Vikatinho](	https://github-readme-stats.vercel.app/api/top-langs/?username=vikatinho&theme=blue-green)
 
- <h1> Ola, seja bem vindo!! </h1>
  
      
 </div>
